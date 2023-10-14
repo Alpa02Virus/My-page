@@ -1,0 +1,93 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('wallpaperflare.com_wallpaper.jpg'); 
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.9); 
+    padding: 20px;
+    border: 2px solid #ff5733; 
+    border-radius: 20px; 
+    box-shadow: 0px 0px 20px rgba(255, 87, 51, 0.5); 
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    border-bottom: 2px solid #ff5733; 
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
+#photo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#photo img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    border: 5px solid #ff5733; 
+    box-shadow: 0px 0px 10px rgba(255, 87, 51, 0.5); 
+}
+
+#text {
+    text-align: center;
+}
+@media only screen and (max-width: 767px) {
+
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+
+}
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+
+}
+@media only screen and (min-width: 1200px) and (max-width: 1439px) {
+
+}
+@media only screen and (min-width: 1600px) {
+
+}
